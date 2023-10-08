@@ -13,10 +13,10 @@ export const router = createBrowserRouter([
           path: '/',
           element: <HomePage />
         },
-        {
-          path: 'achievements',
-          element: <AchievementsPage />
-        },
+        // {
+        //   path: 'achievements',
+        //   element: <AchievementsPage />
+        // },
         // {
         //   path: 'shop',
         //   element: <ShopPage />
