@@ -32,7 +32,7 @@ export const NavBar = () => {
           </Link>
           <ul>
             <li>
-              <Link to='/achievements'>
+              <Link to='/'>
               <button className='py-1 px-4 bg-gradient-to-r from-purple-300 to-teal-300 font-bold'>
                 CONNECT WALLET
               </button>

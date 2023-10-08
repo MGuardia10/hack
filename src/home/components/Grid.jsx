@@ -3,7 +3,7 @@ import { GridItems } from "./GridItems"
 
 export const Grid = () => {
   return (
-    <section className='flex flex-col bg-[#191919]'>
+    <section className='flex flex-col bg-[#191919] pt-10 pb-16'>
       <div className='flex justify-center py-5'>
         <h2 className='text-[#7fdbdf] text-2xl p-5 font-bold'>
           Available rewards
