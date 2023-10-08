@@ -1,7 +1,7 @@
 import { Navigate, createBrowserRouter } from "react-router-dom";
 import { HomePage } from "../home/pages/HomePage";
 import { HomeRoutes } from "../home/routes/HomeRoutes";
-import { AchievementsPage } from "../achievements/pages/AchievementsPage";
+// import { AchievementsPage } from "../achievements/pages/AchievementsPage";
 // import { ShopPage } from "../shop/pages/ShopPage";
 
 export const router = createBrowserRouter([
